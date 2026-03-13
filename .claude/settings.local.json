@@ -1,7 +1,9 @@
 {
   "permissions": {
     "allow": [
-      "Bash(python:*)"
+      "Bash(python:*)",
+      "mcp__discord-mcp__list-servers",
+      "mcp__discord-mcp__list-channels"
     ]
   }
 }
